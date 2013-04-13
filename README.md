@@ -35,10 +35,13 @@ Operations of moving the files, organizing their options, the
 rest is still on the Module's developer (you) to make.
 
 File Structure should be as follows:
-{ZIP}
--Module.xml
--modules/TestModule/*
--smarty/templates/*
+
+----
+|ZIP|
+----
+--Module.xml <br />
+--modules/TestModule/* <br />
+--smarty/templates/* <br />
 
 --------------------------
 |The XML file is MANDATORY|
